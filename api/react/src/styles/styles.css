@@ -1,0 +1,14 @@
+body, html {
+    background-color: #dadada;
+    height:100%;
+    margin: 0;
+    overflow-x: hidden;
+  }
+  
+  #app {
+    height:100%;
+  }
+  
+  @keyframes rotateRight{
+    100%{ transform:rotate(360deg); }
+  }
